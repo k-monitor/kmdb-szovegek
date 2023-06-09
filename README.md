@@ -3,6 +3,7 @@
 
 # Meglévő összefoglalás 2023 Március - kmdb-export-20220302.csv alapján (52543 cikk)
 A dump-ban 52880 sor van, ebből 52363 rekordnak van unique url+publication_date metaadata.
+
 Colab az összeegyeztetéshez: https://colab.research.google.com/drive/13Cjig3iEvVIs6DGacqrc6TMlInNw_Qvq?usp=sharing
 
 ## Három forrás: 
