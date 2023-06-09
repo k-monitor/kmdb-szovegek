@@ -1,0 +1,2 @@
+# kmdb-szovegek
+Sajtóadatbázis szövegek
