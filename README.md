@@ -9,6 +9,7 @@ Colab az összeegyeztetéshez: https://colab.research.google.com/drive/13Cjig3iE
 ## Három forrás: 
 - valszeg ok (k-monitor gyűjtés, főként a sajtóadatbázis első pár évéből) - https://drive.google.com/drive/folders/18Zm4l8g7LxDsm5QVUgDN4HSGZS9ZqA8P?usp=share_link
     - fájlok száma: 11590
+    - fájl neve a sajtóadatbázisban ID-ként szerepel
     - fájlok formátuma:
         - .txt: 7438
         - .rtf: 3491
@@ -20,6 +21,7 @@ Colab az összeegyeztetéshez: https://colab.research.google.com/drive/13Cjig3iE
 
 - belső link (k-monitor gyűjtés, főként a sajtóadatbázis legelső pár évéből) - https://drive.google.com/drive/folders/1beVKksfuaezmtKb2Y0hiLNjw_16UU-Jt
     - fájlok száma: 4534
+    - fájl neve a sajtóadatbázisban Belső linkként szerepel
     - sajtóadatbázis export: https://shared.deepdata.hu/kmdb-export-20230321.zip
     - fájlok formátuma:
         - .doc: 3180
