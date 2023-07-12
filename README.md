@@ -1,4 +1,6 @@
-# KMonitorSajtoadatEgysegesites
+# K-Monitor Sajtóadatbázis Egységesítés
+A ([K-Monitor sajtóadatbázisának](https://adatbazis.k-monitor.hu)) cikkeihez tartozó szövegek összegyűjtését, egységesítését és további felhasználását célul kitűző projekt.
+
 Összes sajtóadat fájl szövegét egy jsonl fájlba news_id alapján egységesíteni ([eredeti repo itt](https://github.com/everybitmihaly/KMonitorSajtoadatEgysegesites)). 
 
 # Meglévő összefoglalás 2023 Március - kmdb-export-20220302.csv alapján (52543 cikk)
