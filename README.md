@@ -44,6 +44,7 @@ Colab az összeegyeztetéshez: https://colab.research.google.com/drive/13Cjig3iE
 
   # API
   Működik egy kezdetleges API a sajtóadatbázis tartalmához kapcsolva.
+  
   URL: https://adatbazis.k-monitor.hu/api.php?tag=mezogazdasag&limit=10&offset=0
   - A "tag" paraméter a címke, amire szűrni akartok, a "limit" és "offset" paraméterekkel meg tudtok lapozni. A minimum limit 10, a maximum 50, ezeket automatikusan korrigálja a kód.
   - A válasz JSON mezői: tag, limit, offset, results, error.
@@ -54,6 +55,7 @@ Colab az összeegyeztetéshez: https://colab.research.google.com/drive/13Cjig3iE
       - 400 = hiányzik a "tag" paraméter
       - 404 = nincs ilyen címke vagy nincs ilyen cikk
       - 500 = valamit elcsesztem :D vagy valami megdöglött
+        
     URL: https://adatbazis.k-monitor.hu/api-person.php?name=
     - name paraméterben egy személynevet vár
     - prefix keresést csinál és több találatot ad vissza, mivel az adatbázisban szuffix-ekkel különböztetitek meg a Kovács Lászlókat (alias “Kovács László”) keresésre vissza fogja adni “Kovács László”, “Kovács László (olaj)” és hasonló emberkéket
